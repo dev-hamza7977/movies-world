@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { AiOutlineSearch } from "react-icons/ai";
 import axios from 'axios';
-import { setSelectionRange } from "@testing-library/user-event/dist/utils";
+// import { setSelectionRange } from "@testing-library/user-event/dist/utils";
 
 const MovieApp = () => {
     const [movies, setMovies] = useState([]);

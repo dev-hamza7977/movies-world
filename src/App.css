@@ -263,7 +263,7 @@ align-items: center;
 .movie .rating{
     border: 2px solid #e2822b;
     /* width: fit-content; */
-    width: 150px;
+    width: 75px;
     padding: 5px 10px;
     border-radius: 5px;
     font-weight: 500;
